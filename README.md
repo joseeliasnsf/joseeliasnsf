@@ -4,7 +4,7 @@
   <a href="https://github.com/joseeliasnsf">
   <img height="110em" src="https://github-readme-stats.vercel.app/api?username=joseeliasnsf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseeliasnsf&layout=compact&langs_count=6&theme=tokyonight"/><br>
-  <img src="https://icons8.com/icon/13441/python.png">
+  <img src="https://uploaddeimagens.com.br/imagens/CV8FTa8">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="60" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="60" alt="CSS3">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="60" alt="Bootstrap">
